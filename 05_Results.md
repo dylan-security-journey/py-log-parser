@@ -52,7 +52,8 @@ Example `summary.json`:
 ## 4. Visualization
 The project also generates a bar chart (`summary.png`) showing counts of each log level:
 
-<img src="904319ef-bc8e-4d6e-8e27-afe3f89fdb85.png" alt="Summary Chart" width="800"/>
+<img src="<img width="1898" height="962" alt="image" src="https://github.com/user-attachments/assets/ed9f555e-9d31-4db2-89f2-11fb602e6121" />
+" alt="Summary Chart" width="800"/>
 
 ---
 
